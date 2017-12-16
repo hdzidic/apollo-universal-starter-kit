@@ -7,8 +7,8 @@
 npm-debug.*
 .gqlconfig
 .expo/
-*.sqlite3
+.sqlite3
 .DS_Store
 jsconfig.json
 /public
-# .env
+.env
